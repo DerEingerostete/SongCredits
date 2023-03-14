@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Icons provided by feathericons",
+    "license": "MIT",
+    "licenseUrl": "https://opensource.org/licenses/MIT",
+    "projectUrl": "https://feathericons.com/"
+  },
+  {
+    "name": "loading.io Loading GIF",
+    "license": "Loading.io Free License",
+    "licenseUrl": "https://loading.io/license/#free-license",
+    "projectUrl": "https://loading.io/"
+  },
+  {
+    "name": "HttpErrorPages",
+    "license": "MIT",
+    "licenseUrl": "https://opensource.org/licenses/MIT",
+    "projectUrl": "https://github.com/HttpErrorPages/HttpErrorPages"
+  },
+  {
+    "name": "Apache Commons IO 2.11.0",
+    "license": "Apache 2.0",
+    "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+    "projectUrl": "https://commons.apache.org/proper/commons-io/"
+  },
+  {
+    "name": "JSON In Java 20220320",
+    "license": "The JSON License",
+    "licenseUrl": "https://json.org/license.html",
+    "projectUrl": "https://github.com/douglascrockford/JSON-java"
+  },
+  {
+    "name": "FlatLaf 2.3",
+    "license": "Apache 2.0",
+    "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+    "projectUrl": "https://github.com/JFormDesigner/FlatLaf"
+  },
+  {
+    "name": "FlatLaf Extras 2.3",
+    "license": "Apache 2.0",
+    "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+    "projectUrl": "https://github.com/JFormDesigner/FlatLaf"
+  },
+  {
+    "name": "Spotify Web API Java Client 7.1.0",
+    "license": "MIT",
+    "licenseUrl": "https://opensource.org/licenses/MIT",
+    "projectUrl": "https://github.com/spotify-web-api-java/spotify-web-api-java"
+  },
+  {
+    "name": "JetBrains Java Annotations 23.0.0",
+    "license": "Apache 2.0",
+    "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+    "projectUrl": "https://github.com/JetBrains/java-annotations"
+  },
+  {
+    "name": "Project Lombok 1.18.24",
+    "license": "MIT",
+    "licenseUrl": "https://projectlombok.org/LICENSE",
+    "projectUrl": "https://projectlombok.org/"
+  },
+  {
+    "name": "Caffeine Cache 3.1.1",
+    "license": "Apache 2.0",
+    "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+    "projectUrl": "https://github.com/ben-manes/caffeine "
+  }
+]

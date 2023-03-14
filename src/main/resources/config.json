@@ -1,0 +1,33 @@
+{
+    "debug": false,
+    "spotifyDebug": false,
+    "clickRefreshDelay": 500,
+    "resetProgressOnStop": true,
+    "animationWhileStopped": true,
+    "sources": {
+        "vlc": {
+            "port": 8080,
+            "password": null,
+            "host": null,
+            "refreshRate": 1000,
+            "configPath": null
+        },
+        "spotify": {
+            "clientId": null,
+            "clientSecret": null,
+            "redirectUri": "http://localhost/",
+            "countPausedAsStopped": true,
+            "refreshRate": 1200
+        },
+        "active": "vlc"
+    },
+    "general": {
+        "resolveCover": true,
+        "coverResolution": "256x256",
+        "defaultPlaceholderCover": true,
+        "placeholderText": "No Song playing",
+        "coverFile": null,
+        "placeholderCoverFile": null,
+        "outputFormatters": []
+    }
+}
